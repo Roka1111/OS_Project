@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -e "\n NSCS OS S2 PROJECT \n"
-echo -e "\n BY: MEGHRISSI ROUKAYA && AOUANE MOUNIRA CERINE \n"
+echo -e "\n BY: MEGHRICI ROUKAYA && AOUANE MOUNIRA CERINE \n"
 echo -e "\n SELECT A CHOICE FOR A HARDWARE AND SOFTWARE REPORT \n"
 echo -e " 1. FULL REPORT & send to your email "
 echo -e " 2. SMALL REPORT & send to your email "
